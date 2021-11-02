@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QuizApplication</string>
+    <string name="title_home">Home</string>
+    <string name="title_quiz">Quiz</string>
+    <string name="title_lists">Lists</string>
+    <string name="title_login">Login</string>
+    <string name="title_register">Register</string>
+    <string name="title_logout">Logout</string>
+
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="message_back_again_to_exit">Please click BACK again to exit</string>
+    <string name="label_start_quiz">Start Quiz</string>
+</resources>
